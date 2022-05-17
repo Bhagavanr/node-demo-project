@@ -1,0 +1,13 @@
+C:\dotnet-kafka-demos\dotnet-kafka-producer\bin\Debug\netcoreapp3.1\dotnet-kafka-producer.exe
+C:\dotnet-kafka-demos\dotnet-kafka-producer\bin\Debug\netcoreapp3.1\dotnet-kafka-producer.deps.json
+C:\dotnet-kafka-demos\dotnet-kafka-producer\bin\Debug\netcoreapp3.1\dotnet-kafka-producer.runtimeconfig.json
+C:\dotnet-kafka-demos\dotnet-kafka-producer\bin\Debug\netcoreapp3.1\dotnet-kafka-producer.runtimeconfig.dev.json
+C:\dotnet-kafka-demos\dotnet-kafka-producer\bin\Debug\netcoreapp3.1\dotnet-kafka-producer.dll
+C:\dotnet-kafka-demos\dotnet-kafka-producer\bin\Debug\netcoreapp3.1\dotnet-kafka-producer.pdb
+C:\dotnet-kafka-demos\dotnet-kafka-producer\obj\Debug\netcoreapp3.1\dotnet-kafka-producer.csprojAssemblyReference.cache
+C:\dotnet-kafka-demos\dotnet-kafka-producer\obj\Debug\netcoreapp3.1\dotnet-kafka-producer.AssemblyInfoInputs.cache
+C:\dotnet-kafka-demos\dotnet-kafka-producer\obj\Debug\netcoreapp3.1\dotnet-kafka-producer.AssemblyInfo.cs
+C:\dotnet-kafka-demos\dotnet-kafka-producer\obj\Debug\netcoreapp3.1\dotnet-kafka-producer.csproj.CoreCompileInputs.cache
+C:\dotnet-kafka-demos\dotnet-kafka-producer\obj\Debug\netcoreapp3.1\dotnet-kafka-producer.dll
+C:\dotnet-kafka-demos\dotnet-kafka-producer\obj\Debug\netcoreapp3.1\dotnet-kafka-producer.pdb
+C:\dotnet-kafka-demos\dotnet-kafka-producer\obj\Debug\netcoreapp3.1\dotnet-kafka-producer.genruntimeconfig.cache

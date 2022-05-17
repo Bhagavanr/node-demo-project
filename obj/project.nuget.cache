@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "guMBdHIfsVQIhUCC1DccGp9jMhFo1K4xJ5f13sY+IU69zvyw/8X7rCNBUXkQpxdnw00eU303HWxQxet2MZIKFA==",
+  "success": true,
+  "projectFilePath": "C:\\dotnet-kafka-demos\\dotnet-kafka-producer\\dotnet-kafka-producer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BhagavanK\\.nuget\\packages\\confluent.kafka\\1.8.2\\confluent.kafka.1.8.2.nupkg.sha512",
+    "C:\\Users\\BhagavanK\\.nuget\\packages\\librdkafka.redist\\1.8.2\\librdkafka.redist.1.8.2.nupkg.sha512",
+    "C:\\Users\\BhagavanK\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
