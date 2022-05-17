@@ -6,7 +6,7 @@ namespace dotnet_kafka_producer
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is .NET core kafka producer app");
+            Console.WriteLine("This is .NET core kafka producer app, Used to produce the messages");
         }
     }
 }
